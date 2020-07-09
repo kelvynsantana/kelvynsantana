@@ -1,16 +1,14 @@
-### Hi there 👋
+### E ai jovem! 🖖
 
-<!--
-**kelvynsantana/kelvynsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 28 anos, moro em Sampa, e sou apaixonado por aprender qualquer coisa, sério QUALQUER COISA! Sou iniciante nessa negócio de programar, e tenho que dizer que to amando muito tudo isso!
 
-Here are some ideas to get you started:
+<img src="https://i.gifer.com/192l.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Linguagens
+
+- [x] Javascript;
+- [x] Typescript;
+- [x] HTML;
+- [x] CSS;
+- [x] Python;
+
