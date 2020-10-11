@@ -8,7 +8,7 @@
 
 Tenho 28 anos, moro em Sampa, e sou apaixonado por aprender qualquer coisa, sério QUALQUER COISA! <br />
 Sou iniciante nesse negócio de programar, e tenho que dizer que tô amando muito tudo isso!<br />
-Atualmente trabalho na **RedFoxTech** como Dev Full Stack Jr 💻. <br /><br />
+Atualmente trabalho na **TalentFour Consulting** como Dev Backend 💻. <br /><br />
 Quando não estou programando ou aprendendo alguma coisa nova gosto de fazer [musica](https://open.spotify.com/track/4qbkn1HHhwjSPOm2UXnjWD?si=WHNzoo74Qni6dCOJ885hKA), e descobri também que gosto de streamar na [Twitch](https://twitch.tv/okelvynsantana)
 
 
@@ -20,11 +20,11 @@ Quando não estou programando ou aprendendo alguma coisa nova gosto de fazer [mu
 - [x] CSS;
 - [x] Python;
 
-#### Frameworks e tecnologias que já usei ou brinquei 🛠:
+#### Frameworks, e tecnologias que já usei ou brinquei 🛠:
 - [x] React;
 - [x] React Native;
 - [x] Node;
-- [x] Vue (To aprendendo, e tendo um caso de amor 💜);
+- [x] Vue;
 - [x] Express.js;
 - [x] Adonis.js;
 - [x] Express.js;
@@ -32,7 +32,6 @@ Quando não estou programando ou aprendendo alguma coisa nova gosto de fazer [mu
 - [x] Django;
 - [x] Bootstrap;
 - [x] Spectre.css;
-- [x] Ruby on Rails;
 
 
 
