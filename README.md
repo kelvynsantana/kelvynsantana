@@ -8,9 +8,7 @@
 
 Tenho 28 anos, moro em Sampa, e sou apaixonado por aprender qualquer coisa, sério QUALQUER COISA! <br />
 Sou iniciante nesse negócio de programar, e tenho que dizer que tô amando muito tudo isso!<br />
-Atualmente trabalho na **TalentFour Consulting** como Dev Backend 💻. <br /><br />
-Quando não estou programando ou aprendendo alguma coisa nova gosto de fazer [musica](https://open.spotify.com/track/4qbkn1HHhwjSPOm2UXnjWD?si=WHNzoo74Qni6dCOJ885hKA), e descobri também que gosto de streamar na [Twitch](https://twitch.tv/okelvynsantana)
-
+Atualmente trabalho na **BBNK** como Dev Full Stack 💻. <br /><br />
 
 #### Linguagens programo ou já brinquei ⌨:
 
